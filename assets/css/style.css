@@ -1,0 +1,41 @@
+.style0{
+    font-size: 24px;
+    padding: 50px;
+    border: 1px solid black;
+    background-color:blue;
+    color: white;
+    width: 260px;
+}
+.style1{
+    font-size: 24px;
+    padding: 50px;
+    width: 260px;
+    border: 1px solid black;
+    color: white;
+    background-color:chocolate;
+}
+.style2{
+    font-size: 24px;
+    padding: 50px;
+    width: 260px;
+    border: 1px solid black;
+    background-color:brown;
+    color: white;
+}
+.style3{
+    font-size: 24px;
+    padding: 50px;
+    width: 260px;
+    border: 1px solid black;
+    background-color:blueviolet;
+    color: white;
+}
+
+.style4{
+    font-size: 24px;
+    padding: 50px;
+    width: 260px;
+    color: white;
+    border: 1px solid black;
+    background-color:darkslateblue;
+}
